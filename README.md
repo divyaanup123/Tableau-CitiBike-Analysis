@@ -5,11 +5,11 @@ Overview
 This Tableau project analyzes bike-sharing patterns in our city for the first quarter of 2024 (January to March). The project aims to provide insights into popular stations, rider behaviors, and differences between member and casual riders.
 
 Structure
-1. Main Workbook
-Tableau Public Link: BikeShare Q1 2024 Analysis
+
 Description: The primary Tableau workbook containing all visualizations and data connections.
 File: Citibike 2024 Q1 Analysis.twb
-2. Data Source
+
+3. Data Source
 The original data for this project was sourced from multiple files available at: Citi Bike System Data
 
 Specifically, we used the following datasets:
