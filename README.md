@@ -19,9 +19,6 @@ JC-202402-citibike-tripdata.csv
 JC-202403-citibike-tripdata.csv
 The final dataset after processing for the Tableau visualizations:
 
-File: First-Qtr.csv
-Description: This CSV file contains the cleaned and consolidated data from all three months, serving as the primary data source for the Tableau project.
-For data integrity and reproducibility, both the original datasets and the data processing notebook are included in the project repository.
 
 3. Data Cleaning
 File: Data_Cleaning.ipynb
